@@ -13,7 +13,7 @@ public class Employee {
 		    this.id = id;  
 		}  
 		public String getFirstName() {  
-		    return firstName;  
+		    return firstName1;  
 		}  
 		public void setFirstName(String firstName) {  
 		    this.firstName = firstName;  
